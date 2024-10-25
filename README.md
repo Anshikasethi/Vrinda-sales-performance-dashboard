@@ -6,8 +6,6 @@ To create an Annual Sales Report for Vrinda Store for FY 2022, providing insight
 ## Dataset used:
 -<a href= "https://github.com/Anshikasethi/Vrinda-sales-performance-dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx">Vrinda Store Data</a> 
 
-Here’s a more polished, professional version of the questions (KPIs):
-
 ## Key Performance Indicators (KPIs):
 - Sales vs. Orders: Compare total sales and the number of orders in a combined chart.
 - Monthly Performance: Identify the month with the highest sales and orders.
@@ -18,5 +16,10 @@ Here’s a more polished, professional version of the questions (KPIs):
 - Channel Contribution: Determine which e-commerce channel contributed the most to total sales.
 - Best-Selling Category: Identify the highest-selling product category.
 - Order Delivery Rate: Calculate the percentage of total orders successfully delivered.
-- <a herf = https://github.com/Anshikasethi/Vrinda-sales-performance-dashboard/blob/main/Screenshot-vrinda-sales-analysis-dashboard.png>View Dashboard</a>
+- <a herf = "https://github.com/Anshikasethi/Vrinda-sales-performance-dashboard/blob/main/Screenshot-vrinda-sales-analysis-dashboard.png">View Dashboard</a>
   
+## Process:
+- Data Validation: Verified the dataset for missing values, anomalies, and inconsistencies, and addressed these issues to ensure data accuracy.
+- Data Cleaning: Ensured data consistency by standardizing data types, formats, and values across the dataset.
+- Pivot Table Creation: Generated pivot tables based on the key performance indicators (KPIs) to answer specific analytical questions.
+- Dashboard Development: Integrated all pivot tables into a single interactive dashboard and applied slicers for dynamic filtering and enhanced data exploration.
